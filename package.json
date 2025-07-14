@@ -1,0 +1,11 @@
+{
+  "name": "aws-nodejs-demo",
+  "version": "1.0.0",
+  "description": "Node.js app for AWS CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
